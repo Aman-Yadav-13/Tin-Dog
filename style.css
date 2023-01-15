@@ -1,0 +1,167 @@
+body{
+  font-family: "Montserrat";  
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15% ;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 3.5rem;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-size: 1.2rem
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-img {
+  width:20%;
+  transform: rotate(25deg);
+  position: absolute;
+  right:23%;
+}
+
+.icon-block {
+  text-align: center;
+}
+
+#icon {
+  color: #ef8172;
+  margin: 8rem 0 1rem;
+}
+
+#icon:hover {
+  color:#ff4c68;
+}
+
+
+.below-content {
+  color: #8f8f8f;
+}
+
+.head-line {
+  line-height: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: "Montserrat";
+}
+
+#testimonials {
+  text-align: center;
+  padding: 5% 15% 0;
+  background-color:#ff4c68;
+  color: #fff;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 4rem;
+}
+
+.testimonial-img {
+  width: 15%;
+  border-radius: 100%;
+  margin: 5% 10% 10%;
+}
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 20px 15px;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+#features {
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+@media (max-width: 1000px) {
+  
+  .title-img {
+    position: static;
+    width: 60%;
+    transform: none;
+    padding: 40px 0;
+  }
+
+  .title-block {
+    text-align: center;
+  }
+}
+
+#cta {
+  background-color: #ff4c68 ;
+  color: #fff;
+  font-weight: 700%;
+  font-size: 6rem;
+  text-align: center;
+}
+
+.action {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 4rem;
+  padding: 5% 15% 0;
+}
+
+.bottom-button {
+  text-align: center;
+  padding-left: 5%;
+}
+
+#footer {
+  text-align: center;
+  padding: 5% 2%;
+}
+
+.fi {
+  padding: 0 8px ;
+}
